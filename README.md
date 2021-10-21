@@ -1,6 +1,10 @@
 # Resume of Angelica Hjelm Gardner
 
-This is a simple Jekyll + GitHub Pages powered resume. It is a compacted competency-based way for me to showcase my skills, notable achievements, and work experience.
+This is a simple resumé powered by Jekyll + GitHub Pages. 
+
+My resumé is achievement-based and outlines a summary of my work experience, relevant skills, and basic information about highest level of education. 
+
+For my CV, please see: [https://angelicagardner.github.io/](https://angelicagardner.github.io/)
 
 ## License
 
