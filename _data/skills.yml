@@ -1,13 +1,6 @@
 # Skills
 - skill: Languages
-  description: HTML, CSS
-    JavaScript
-    PHP
-    Python
+  description: HTML, CSS, JavaScript, PHP, Python
 
 - skill: Tools & Technologies
-  description: Sass
-    Node.js, React.js, Next.js, Gatsby
-    Laravel
-    Django, Flask, 
-    Git, Docker
+  description: Sass, Node.js, React.js, Next.js, Gatsby, Laravel, Django, Flask, Git, Docker
