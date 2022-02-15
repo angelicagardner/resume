@@ -1,10 +1,12 @@
 # Resumé
 
-This is a simple resumé webpage powered by Jekyll + GitHub Pages. 
+Outlines a summary of my work experience, technical skills and basic information about education. 
 
-My resumé is achievement-based and outlines a summary of my work experience, relevant skills, and basic information about education. 
+For my CV, please see: [https://angelicagardner.github.io/](https://angelicagardner.github.io/). It contains a complete educational background and detailed description about other achievements. 
 
-For my CV, please see: [https://angelicagardner.github.io/](https://angelicagardner.github.io/)
+## Tech
+
+A simple resumé webpage powered by Jekyll + GitHub Pages. 
 
 ## License
 
