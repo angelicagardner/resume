@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • angelicahjelmgardner@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This resumé is achievement-based and outlines a summary of my work experience, relevant skills, and basic information about education.</p>"
+resume_header_intro: "I am a Web Developer with several years of Front End experience. Now primarily interested in transitioning into Back End positions."
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -46,7 +46,7 @@ resume_section_associations:    false
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   #resume_github_url:            "https://github.com/angelicagardner"
-  resume_linkedin_url:          "https://www.linkedin.com/in/angelica-gardner/"
+  # resume_linkedin_url:          "https://www.linkedin.com/in/angelica-gardner/"
   #resume_website_url:           "https://angelicagardner.com"
   # resume_medium_url:            "https://medium.com/@angelicagardner"
 resume_print_social_links:      true
