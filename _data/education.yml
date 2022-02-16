@@ -4,8 +4,7 @@
   year: 2020 &mdash; 2022
   awards:
     - award: Studies focused on exploring topics related to model-based development, verification and validation, data-intensive systems and AI, visualisation and data analytics.  
-    - award: My academic interest in (trustworthy) AI/ML really took off.
-  summary: Ongoing studies towards a Master's degree in Computer Science with specialisation in Software Technology.
+    - award: My academic interest in Trustworthy AI/ML took off.
 
 - degree: Bachelor of Science - BS, Computer Science
   uni: Linnaeus University
@@ -13,7 +12,7 @@
   awards:
     - award: Supplementary year to obtain a Bachelor's degree. 
     - award: Studies focused on software architecture, object-orientation, design patterns and software testing.
-  summary: Degree project "Stronger Together? An Ensemble of CNNs for Deepfakes Detection" (Grade A)
+    - award: Degree project "Stronger Together? An Ensemble of CNNs for Deepfakes Detection" (Grade A)
 
 - degree: Higher Education Diploma with specialization in Computer Engineering
   uni: Mid Sweden University
@@ -22,4 +21,4 @@
     - award: Two-year programme with a focus on web development, comprising theoretical and practical parts.
     - award: Project-based internship as a software engineer at [A].
     - award: I had the opportunity to make my first open-source contribution (ML.NET machine learning samples repository).
-  summary: Degree project "Improving the Chatbot Experience With a Content-based Recommender System" (Grade A)
+    - award: Degree project "Improving the Chatbot Experience With a Content-based Recommender System" (Grade A)

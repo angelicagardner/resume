@@ -1,5 +1,20 @@
 # Jobs
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
+- company: Looping.tech
+  position: Front End Developer
+  duration: Aug, 2019 &mdash; Dec, 2021
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+
+- company: Simple [A]
+  position: Software Developer Intern
+  duration: Jan, 2019 &mdash; Jun, 2019
+  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+
+- company: Body Bazar
+  position: Shopify Web Developer
+  duration: Aug, 2017 &mdash; Jun, 2018
+  summary:  <ul class="resume-item-list"><li>Developed a Shopify theme like the current website design;</li><li>Migrated the website from Magento to Shopify;</li><li>Integrated solutions for payment gateway, shipping and other apps;</li><li>Prepared the internationalisation of the shop;</li><li>Developed a customer loyalty and rewards programme; and</li><li>Assisted the owner learn how to use the platform and work on the website further.</li></ul>
+
+- company: Mjukhud.se
+  position: Junior Web Developer
+  duration: Jan, 2013 &mdash; Dec, 2016
+  summary: <ul class="resume-item-list"><li>Worked on responsive design for classic WordPress and Magento themes using HTML5, CSS3 (and Bootstrap), JavaScript, PHP;</li><li>Assisted the lead developer with (manual) testing;</li><li>Managed and implemented WordPress updates and Magento patches; and</li><li>Used user feedback and site performance statistics to identify and fix issues.</li></ul>
