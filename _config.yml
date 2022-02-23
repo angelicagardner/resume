@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Angelica Hjelm Gardner"
-resume_title:                   ""
+resume_title:                   "Download as PDF"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "angelicahjelmgardner@gmail.com"
@@ -45,10 +45,11 @@ resume_section_associations:    false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  #resume_github_url:            "https://github.com/angelicagardner"
+  # resume_github_url:            "https://github.com/angelicagardner"
   # resume_linkedin_url:          "https://www.linkedin.com/in/angelica-gardner/"
-  #resume_website_url:           "https://angelicagardner.com"
+  # resume_website_url:           "https://angelicagardner.com"
   # resume_medium_url:            "https://medium.com/@angelicagardner"
+  resume_pdf_url:                 "https://github.com/angelicagardner/resume/raw/gh-pages/PDF/resume.pdf"
 resume_print_social_links:      true
 
 # Design settings
