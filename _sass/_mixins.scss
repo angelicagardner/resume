@@ -91,6 +91,12 @@
 // layout
 
 @mixin section_border {
+  border-top: 2px solid #000;
+  border-bottom: none;
+  padding: .2rem 0 .4rem;
+}
+
+@mixin title_border {
   border-top: none;
   border-bottom: none;
   padding: .2rem 0 .4rem;
