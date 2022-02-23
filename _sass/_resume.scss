@@ -48,7 +48,7 @@
   }
 
   .title-bar {
-    @include section_border;
+    @include title_border;
     padding: .4rem 0;
     @include clearfix;
 
