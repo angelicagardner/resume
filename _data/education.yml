@@ -1,24 +1,21 @@
 # Degree
-- degree: Master of Science - MS, Software Technology
+- degree: Master of Science with specialization in Software Technology, Computer Science
   uni: Linnaeus University
   year: 2020 &mdash; 2022
   awards:
-    - award: Studies focused on exploring topics related to model-based development, verification and validation, data-intensive systems and AI, visualisation and data analytics.  
-    - award: My academic interest in Trustworthy AI/ML took off.
+    - award: Coursework on formal methods, machine learning, code transformation and interpretation, visualization, and data mining, complemented by hands-on projects for practical experience.
+    - award: My degree project was to conduct ML experiments in Jupyter notebooks to recognise pain, estimate intensity, and classify painful body areas in adults based on body movements and facial expressions. I used a hybrid CNN-BidirectionalLSTM and a recurrent CNN (RCNN) with Keras Functional API (Tensorflow 2).
 
-- degree: Bachelor of Science - BS, Computer Science
+- degree: Bachelor of Science, Computer Science
   uni: Linnaeus University
   year: 2019 &mdash; 2020
   awards:
-    - award: Supplementary year to obtain a Bachelor's degree. 
-    - award: Studies focused on software architecture, object-orientation, design patterns and software testing.
-    - award: Degree project "Stronger Together? An Ensemble of CNNs for Deepfakes Detection" (Grade A)
+    - award: Coursework on algorithms, software architecture, design patterns, and software testing.
+    - award: My degree project was to design and execute controlled experiments using Sacred to evaluate the performance of deepfake detection. The study compared the effectiveness of ensemble models versus single models, utilizing the Deepfake Detection Challenge dataset from Kaggle. The following Convolutional Neural Network (CNN) architectures were implemented with PyTorch VGG19, ResNet50, VGG16, and Xception.
 
-- degree: Higher Education Diploma with specialization in Computer Engineering
+- degree: Higher Education Diploma with specialization in Web Development, Computer Engineering
   uni: Mid Sweden University
   year: 2017 &mdash; 2019
   awards:
-    - award: Two-year programme with a focus on web development, comprising theoretical and practical parts.
-    - award: Project-based internship as a software engineer at [A].
-    - award: I had the opportunity to make my first open-source contribution (ML.NET machine learning samples repository).
-    - award: Degree project "Improving the Chatbot Experience With a Content-based Recommender System" (Grade A)
+    - award: Focus on full-stack web development, combining theoretical foundations with hands-on practical experience.
+    - award: My degree project was to develop a content-based recommendation module with four components (1) web spider using DotnetSpider, (2) bag-of-words model using ML.NET, (3) Neo4j graph database and (4) GraphQL API to which the chatbot agent connects via Dialogflow's webhook service.
