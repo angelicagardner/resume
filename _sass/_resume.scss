@@ -10,7 +10,8 @@
   h2 {
     @include sans;
     font-weight: 900;
-    font-size: 1.75rem;
+    font-size: 1.5em;
+    text-transform: uppercase;
     letter-spacing: -.05rem;
     margin: 0;
   }
@@ -21,7 +22,7 @@
 .page-header { padding: 1.5rem 0;
 
   .avatar {
-    width: 95px;
+    width: 100px;
     max-width: 100%;
     overflow: hidden;
     @include border-radius(100px);
@@ -75,8 +76,6 @@
   position: relative;
   top: 4px;
   text-align: center;
-  border-top: 2px solid #c7c7c7;
-  padding-top: .4rem;
 
   @include media_larger_than_mobile {
     float: right;
