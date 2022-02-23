@@ -49,25 +49,17 @@
 
   .title-bar {
     @include section_border;
-    margin-top: 2rem;
     padding: .4rem 0;
     @include clearfix;
 
     .header-title {
       @include sans;
       font-weight: 300;
-      font-size: 1.75rem;
+      font-size: 1em;
       line-height: 2rem;
-      letter-spacing: -.05rem;
-      text-align: center;
-      margin: 0 0 .5rem;
-
-      @include media_larger_than_mobile {
-        float: left;
-        margin: 0;
-      }
+      text-align: left;
+      margin: 0 0.5rem 0.5rem 0;
     }
-    display: none !important;
   }
 
   .executive-summary {

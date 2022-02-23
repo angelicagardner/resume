@@ -91,9 +91,14 @@
 // layout
 
 @mixin section_border {
-  border-top: 3px solid #000;
+  border-top: none;
   border-bottom: none;
   padding: .2rem 0 .4rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 1em;
+  margin-bottom: -1em;
 }
 
 @mixin section_border_thin {
