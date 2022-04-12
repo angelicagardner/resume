@@ -1,9 +1,9 @@
 # Skills
 - skill: Languages
-  description: HTML/CSS, JavaScript, PHP, Python, Java
+  description: HTML, CSS, JavaScript, Python
 
 - skill: Technologies
-  description: Sass, Angular, React.js, Node.js, Laravel, Django, Flask, MySQL, Redis, Neo4j, MongoDB, AWS, Google Cloud Platform (GCP)
+  description: Sass, React.js, Flask, MySQL, Neo4j
 
 - skill: Other
   description: CI/CD practices, unit testing 
