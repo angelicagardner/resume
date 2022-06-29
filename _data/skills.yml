@@ -1,9 +1,9 @@
 # Skills
-- skill: Languages
-  description: HTML, CSS, JavaScript, Python
+- skill: Languages, libraries, frameworks
+  description: HTML, CSS, JavaScript, React.js, Python, Flask
 
-- skill: Technologies
-  description: Sass, React.js, Flask, MySQL, Neo4j
+- skill: Technologies and tools
+  description: MySQL, Git
 
 - skill: Other
-  description: CI/CD practices, unit testing 
+  description: Data structures and algorithms 
