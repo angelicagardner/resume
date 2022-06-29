@@ -10,10 +10,11 @@
   h2 {
     @include sans;
     font-weight: 900;
-    font-size: 1.5em;
+    font-size: 1.4em;
     text-transform: uppercase;
     letter-spacing: -.05rem;
     margin: 0;
+    color: #033E8C;
   }
 }
 
@@ -133,13 +134,13 @@
   .resume-item-title {
     @include sans_bold;
     margin: 0 0 .75rem;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     letter-spacing: -.05rem;
     line-height: 1;
   }
 
   .resume-item-details {
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: 400;
     margin: 0 0 .75rem;
     line-height: 1;
@@ -165,7 +166,7 @@
     }
   }
 
-  .resume-item-copy { margin: .75rem 0 0; }
+  .resume-item-copy { font-size: 0.9em; }
 }
 
 // footer styles
