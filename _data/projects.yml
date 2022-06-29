@@ -1,8 +1,6 @@
 # Projects
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Visual Explorer
+  role: Python, Flask, SQLite, React.js, Plotly.js, Docker Compose
+  url: "https://github.com/angelicagardner/Visualization-Analysis"
+  description: Visual Analytics course project using a dataset from VAST challenge 2019. This tool allows a human user to analyse messages from a social media network to detect signs of an earthquake. I was responsible for the ML backend, but also worked on some frontend tasks, such as implementing the message table.
