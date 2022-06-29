@@ -7,8 +7,4 @@
 - company: Mjukhud.se
   position: Junior Web Developer
   duration: Jan 2015 &mdash; Dec 2016
-  summary: <ul class="resume-item-list">
-  <li>Developed a classic WordPress blog theme using HTML5, CSS3, JavaScript and PHP according to WordPress coding standards. Responsible for monitoring theme and plugin updates.</li>
-  <li>Improved the responsiveness of the Magento 1 e-commerce theme using CSS media queries, as large parts of the website were still desktop-only.</li>
-  <li>Implemented Magento security patches by replacing the changed files via FTP.</li>
-  <li>Identified UX and performance issues through user feedback and PageSpeed Insights reports.</li></ul>
+  summary: <ul class="resume-item-list"><li>Developed a classic WordPress blog theme using HTML5, CSS3, JavaScript and PHP according to WordPress coding standards. Responsible for monitoring theme and plugin updates.</li><li>Improved the responsiveness of the Magento 1 e-commerce theme using CSS media queries, as large parts of the website were still desktop-only.</li><li>Implemented Magento security patches by replacing the changed files via FTP.</li><li>Identified UX and performance issues through user feedback and PageSpeed Insights reports.</li></ul>
