@@ -2,8 +2,6 @@
 
 Outlines a summary of my work experience, technical skills and basic information about education. 
 
-For my CV, please see: [https://angelicagardner.github.io/cv/](https://angelicagardner.github.io/cv/). It contains a complete educational background and detailed description about other achievements. 
-
 ## Tech
 
 A simple resumé webpage powered by Jekyll + GitHub Pages. 
