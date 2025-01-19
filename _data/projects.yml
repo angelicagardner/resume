@@ -1,6 +1,6 @@
 # Projects
 
-- project: Visual Explorer
-  role: Python, Flask, SQLite, React.js, Plotly.js, Docker Compose
-  url: "https://github.com/angelicagardner/Visualization-Analysis"
-  description: Visual Analytics course project using a dataset from VAST challenge 2019. This tool allows a human user to analyse messages from a social media network to detect signs of an earthquake. I was responsible for the ML backend, but also worked on some frontend tasks, such as implementing the message table.
+- project: GitHub Profile
+  role: Developer & Contributor
+  url: "https://github.com/angelicagardner"
+  description: You're welcome to explore my open-source contributions and personal projects on my GitHub profile. I regularly upload coding challenge solutions, new learnings, course- and personal projects.
